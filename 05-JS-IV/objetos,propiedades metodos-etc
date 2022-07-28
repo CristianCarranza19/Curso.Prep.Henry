@@ -1,0 +1,28 @@
+OBJETOS
+
+
+    Un objeto es un conjunto de datos relacionados,esta conformado por propiedades que cada una de ellas esta compuesta por un nombre y un valor, y metodos que son 
+    funciones establecidas dentro de un objeto, se comporta de manera similar a los arreys, pero para invocarlos se usan las llaves {}, en lugar de corchetes.
+
+PROPIEDADES 
+
+    Las propiedades son un atributo de los objetos que esta compuesta por un nombre y un valor (key/value), el nombre o clave es el dato que usamos para identificar esa 
+    propiedad y el valor como su nombre lo indica es lo que guardamos en el, las propiedades pueden albergar cualquier tipo de dato que exista en JS como : strings, numeros
+    booleanos, funcion etc. Deben ir separados el nombre del valor por dos puntos ":" y cada linea por una coma "," no se puede usar punto y coma en las propiedades.
+
+
+
+METODOS
+
+    Son funciones guardadas dentro de un objeto y se puede invocar mediante un argumento como cualquier función.
+
+
+BUCLE FOR IN
+
+    Es un tipo de bucle donde de dentro de parentesis se declara la palabra IN y el nombre del objeto que esto hara es recorrer cada dato alojado en ese objeto ya que los objetos no funcionan mediante indices como los arrays.
+
+NOTACION DE PUNTOS VS NOTACION DE CORCHETES
+
+
+    Los brackets notation o notacion de corchetes es una manera de indicar propiedades en lugar de numeros a diferencia de los arrays.
+    Y el dot notation o notacion de puntos es una forma mas sencilla de indicar una propiedad solamente usando un punto.
